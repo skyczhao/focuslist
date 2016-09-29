@@ -6,12 +6,15 @@
 
 # online shopping
 127.0.0.1 taobao.com
+127.0.0.1 www.taobao.com
 127.0.0.1 tmall.com
+127.0.0.1 www.tmall.com
 127.0.0.1 jd.com
+127.0.0.1 www.jd.com
 
 # entertainment
 127.0.0.1 xiami.com
+127.0.0.1 www.xiami.com
 
 # general
 127.0.0.1 www.baidu.com
-
