@@ -1,0 +1,17 @@
+
+### avoid distractions
+# social media
+127.0.0.1 weibo.com
+127.0.0.1 twitter.com
+
+# online shopping
+127.0.0.1 taobao.com
+127.0.0.1 tmall.com
+127.0.0.1 jd.com
+
+# entertainment
+127.0.0.1 xiami.com
+
+# general
+127.0.0.1 www.baidu.com
+
